@@ -1,0 +1,52 @@
+/**{margin: 0;padding: 0;}
+ul li {list-style: none;background: darkturquoise;}
+#odiv{
+	width: 600px;height: 800px;margin: auto;
+	background: grey;overflow: hidden;
+	}
+#div-a{
+	width: 500px;height: 180px;margin:50px auto;
+	background: honeydew;position: relative;
+}
+#div-a>textarea{
+	width: 500px;height: 150px;margin: auto;
+	background: honeydew;border: 0;
+}
+.biaoti{
+	width: 500px;border: 0;height: 30px;
+	background: honeydew;
+	outline: none;border-bottom: 1px solid greenyellow;
+}
+#div-a>button{
+	width: 80px;height: 50px;
+	position: absolute;right: 0;bottom: 0;
+	font-size: 40px;
+}
+ul{
+	margin: 10px 0;
+}
+li{
+	width: 500px;margin:20px auto;position: relative;
+	};
+.link{
+	width: 100px;
+	position: absolute;
+	right: 0;bottom: 0;
+	float: right;
+}
+li>button{float: right;}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
